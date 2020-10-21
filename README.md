@@ -1,5 +1,7 @@
+[![Header](https://github.com/QABoahene/QABoahene/blob/main/images/27592417-2E15-4C9F-88A3-15A7E928CC31.PNG)](https://www.linkedin.com/in/adu-boahene-quarshie-26945a42/)
 
-### Hi there 👋
+# Adu Boahene Q. - Data Scientist
+A Data Scientist with a background in Mechanical Engineering. (Work in progress)
 
 <!--
 **QABoahene/QABoahene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
