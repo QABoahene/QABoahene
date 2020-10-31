@@ -1,19 +1,13 @@
 [![Header](https://github.com/QABoahene/QABoahene/blob/main/images/27592417-2E15-4C9F-88A3-15A7E928CC31.PNG)](https://www.linkedin.com/in/adu-boahene-quarshie-26945a42/)
 
 # Adu Boahene Q. - Data Scientist
-A Data Scientist with a background in Mechanical Engineering. (Work in progress)
+I transitioned from Mechanical ENgineering to Data Science
 
-<!--
-**QABoahene/QABoahene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building up my skills in Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
+I believe in the technologies of data science to give us the ability to further improve the quality of living in almost all aspects. I am always looking for opportunities to merge my mechanical engineering and data science backgrounds.
 
-Here are some ideas to get you started:
+CLick on my banner above to connect with me on LinkedIn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+[![QABoahene's github stats](https://github-readme-stats.vercel.app/api?username=qaboahene)](https://github.com/qaboahene/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaboahene)](https://github.com/qaboahene/github-readme-stats)
