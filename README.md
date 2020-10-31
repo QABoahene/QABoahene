@@ -9,5 +9,6 @@ I believe in the technologies of data science to give us the ability to further 
 CLick on my banner above to connect with me on LinkedIn.
 
 ## GitHub Stats
-[![QABoahene's github stats](https://github-readme-stats.vercel.app/api?username=qaboahene)](https://github.com/qaboahene/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaboahene)](https://github.com/qaboahene/github-readme-stats)
+![QABoahene's github stats](https://github-readme-stats.vercel.app/api?username=qaboahene&show_icons=true&theme=gradient)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaboahene&layout=compact)](https://github.com/qaboahene/github-readme-stats)
