@@ -1,6 +1,6 @@
 [![Header](https://github.com/QABoahene/QABoahene/blob/main/images/27592417-2E15-4C9F-88A3-15A7E928CC31.PNG)](https://www.linkedin.com/in/adu-boahene-quarshie-26945a42/)
 
-# Adu Boahene Q. - Data Scientist
+# Adu Boahene Q. - Mechanical Engineer turned Data Scientist
 I transitioned from Mechanical Engineering to Data Science
 
 Currently building up my skills in Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
