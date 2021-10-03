@@ -11,6 +11,33 @@ Currently, I have transitioned into a Business Intelligence Engineering role (20
 
 Click on my profile to connect with me on LinkedIn.
 
+## Professional Skills
+### Programming Languages
+* Python
+* SQL
+* LookML (For Looker BI tool)
+* R Studio - Intermediate
+* MATLAB - Intermediate
+
+### Data Science Skills
+* Machine Learning
+* Deep Learning
+* Natural Langugae Processing
+* Computer Vision
+* Time Series Analysis
+* Data Visualisation and Communication
+* Database Management
+
+### Data & BI tools
+* Tableau
+* Looker
+* MATLAB
+* Snowflake
+* DBeaver
+* AWS Sagemaker
+* Databricks
+* Google Cloud Platform
+
 ## GitHub Stats
 ![QABoahene's github stats](https://github-readme-stats.vercel.app/api?username=qaboahene&show_icons=true&theme=radical)
 
